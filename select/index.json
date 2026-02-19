@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Endless Moment",
+  "base_artist": "Stella MiNE",
+  "createdAt": "2026-02-19T23:57:18.009856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Endless Moment",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/01_Endless_Moment_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Endless Moment (Inst.)",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/02_Endless_Moment_(Inst.)_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Endless Moment",
+      "artist": "w-inds.",
+      "has_synced": true,
+      "path": "select/03_Endless_Moment_w-inds..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Endless Moment",
+      "artist": "슈퍼주니어",
+      "has_synced": true,
+      "path": "select/04_Endless_Moment_슈퍼주니어.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Endless Moment",
+      "artist": "Stella MiNE",
+      "has_synced": false,
+      "path": "select/pl_01_Endless_Moment_Stella_MiNE.txt"
+    }
+  ]
+}
